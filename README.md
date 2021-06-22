@@ -1,4 +1,4 @@
-# Hi there 👋 , I'm PencintaSenja!
+# Halo, gw PencintaSenja
 Currently working with Robotic Process Automation, but I love learn new thing in programming such as Javascript, HTML, Python.  
 
 ### Tools:
