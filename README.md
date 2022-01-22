@@ -1,5 +1,5 @@
-# Halo, gw PencintaSenja
-Currently working with Robotic Process Automation, but I love learn new thing in programming such as Javascript, HTML, Python.  
+# Hi, saya PencintaSenja
+Currently learning about AI, prefer to learn Ruby, PHP, JavaScript, Scala, GO and C++
 
 ### Tools:
 <p>
@@ -17,7 +17,7 @@ Currently working with Robotic Process Automation, but I love learn new thing in
     - 👯 I’m looking to collaborate on what i like. </br>
     - 🤔 I’m looking for help with master of programming. hehe </br>
     - 💬 Ask me about anything.</br>
-    - 📫 How to reach me: <a href="mailto:petokpiki@gmail.com">Email me!</a>  </br>
+    - 📫 How to reach me: <a href="mailto:firdausssmhmd@gmail.com">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
     - ⚡ Fun fact: ... </br>
 </details>
@@ -30,18 +30,3 @@ Currently working with Robotic Process Automation, but I love learn new thing in
 <p>
     <a href="https://www.instagram.com/firdausss.27" target="blank"><img src="https://img.shields.io/badge/@firdausss.27_-30302f?style=flat&logo=instagram" /></a>
 </p>
-
-<!--
-**bagusfe/bagusfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
