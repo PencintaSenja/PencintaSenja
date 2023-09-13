@@ -28,5 +28,5 @@ Currently learning about AI, prefer to learn Ruby, PHP, JavaScript, Scala, GO an
 
 ### Let's connect!
 <p>
-    <a href="https://www.instagram.com/firdausss.27" target="blank"><img src="https://img.shields.io/badge/@firdausss.27_-30302f?style=flat&logo=instagram" /></a>
+    <a href="https://www.instagram.com/knfrdss" target="blank"><img src="https://img.shields.io/badge/@firdausss.27_-30302f?style=flat&logo=instagram" /></a>
 </p>
