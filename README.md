@@ -1,31 +1,20 @@
-# Hi, saya PencintaSenja
-Currently learning about AI, prefer to learn Ruby, PHP, JavaScript, Scala, GO and C++
-
-### Tools:
-<p>
-    <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=windows" />
-    <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://gpvc.arturio.dev/PencintaSenja" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=header&text=Hi%20there%20👋&fontSize=40)
+<p align="left">
+  <a href="https://github.com/PencintaSenja"><img src="https://github-readme-stats.vercel.app/api?username=PencintaSenja&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
+  <img align="right" src="https://github.com/PencintaSenja/PencintaSenja/assets/45286708/a887dadd-fd65-4df0-8f5c-6245e8f4c06d" width="500px" />
 </p>
 
-### Stats:
-<details>
- <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently working on my self </br>
-    - 🌱 I’m currently learning Python,HTML and css </br>
-    - 👯 I’m looking to collaborate on what i like. </br>
-    - 🤔 I’m looking for help with master of programming. hehe </br>
-    - 💬 Ask me about anything.</br>
-    - 📫 How to reach me: <a href="mailto:firdausssmhmd@gmail.com">Email me!</a>  </br>
-    - 😄 Pronouns: He/Him </br>
-    - ⚡ Fun fact: ... </br>
-</details>
-<p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pencintasenja&layout=compact" height=180 />
+<p align="left">
+  <a href="mailto:firdausssmhmd@gmail.com"><img src="https://img.shields.io/badge/Email-firdausssmhmd@gmail.com.com-ea4335?style=for-the-badge&logo=Gmail&logoColor=ea4335&link=firdausssmhmd@gmail.com" /></a>
+
 </p>
 
-### Let's connect!
-<p>
-    <a href="https://www.instagram.com/knfrdss" target="blank"><img src="https://img.shields.io/badge/@knfrdss_-30302f?style=flat&logo=instagram" /></a>
+<p align="left">
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
+  <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux" />
+  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=e34f26" />
+  <img src="https://img.shields.io/badge/-Shell-black?style=flat-square&logo=Shell" />
+  <img src="https://img.shields.io/badge/-C-black?style=flat-square&logo=c" />
+  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
 </p>
