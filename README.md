@@ -4,7 +4,7 @@
 </p>
 
 <p align="left">
-  <a href="mailto:firdausssmhmd@gmail.com"><img src="https://img.shields.io/badge/Email-firdausssmhmd@gmail.com.com-ea4335?style=for-the-badge&logo=Gmail&logoColor=ea4335&link=firdausssmhmd@gmail.com" /></a>
+  <a href="mailto:firdausssmhmd@gmail.com"><img src="https://img.shields.io/badge/Email-firdausssmhmd@gmail.com-ea4335?style=for-the-badge&logo=Gmail&logoColor=ea4335&link=firdausssmhmd@gmail.com" /></a>
 
 </p>
 
