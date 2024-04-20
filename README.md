@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=header&text=Hi%20there%20👋&fontSize=40)
 <p align="left">
   <a href="https://github.com/PencintaSenja"><img src="https://github-readme-stats.vercel.app/api?username=PencintaSenja&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
-  <img align="right" src="https://github.com/PencintaSenja/PencintaSenja/assets/45286708/a887dadd-fd65-4df0-8f5c-6245e8f4c06d" width="500px" />
 </p>
 
 <p align="left">
